@@ -24,5 +24,8 @@ f=a+b+c
 print(f)
 ```
 ## Output
+![image](https://github.com/user-attachments/assets/80e51d8a-9147-4ab7-9dc3-b0bb6d1502d4)
+
 
 ## Result
+The expected output is Achieved.
